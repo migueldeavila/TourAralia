@@ -215,9 +215,6 @@
 		<hotspot name="spot1" style="skin_hotspotstyle" ath="77.809" atv="12.279" linkedscene="scene_06" url="left-hotspot.png" />
 		<hotspot name="spot2" style="skin_hotspotstyle" ath="89.147" atv="6.881" linkedscene="scene_09" />
 		<hotspot name="spot3" style="skin_hotspotstyle" ath="101.266" atv="3.257" linkedscene="scene_07"  url="right-hotspot.png"/>
-		<hotspot name="spot4" style="skin_hotspotstyle" ath="-126.112" atv="16.665" linkedscene="scene_04" />
-		<hotspot name="spot5" style="skin_hotspotstyle" ath="-110.580" atv="8.630" linkedscene="scene_03" />
-		<hotspot name="spot6" style="skin_hotspotstyle" ath="-64.142" atv="15.676" linkedscene="scene_02" />
 		
 
 	</scene>
